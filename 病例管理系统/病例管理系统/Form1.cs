@@ -30,8 +30,9 @@ namespace 病例管理系统
             if (yanzheng())
             {               
                 zhuchuangti a = new zhuchuangti();
-                a.Show();                  //显示主界面
                 this.Hide();
+                a.Show();                  //显示主界面
+               
             }
             else if (textBox1.Text == "" && textBox2.Text == "")
             {
