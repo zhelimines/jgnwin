@@ -1,0 +1,13 @@
+F:\新的\生殖中心病例管理系统\生殖中心病例管理系统\bin\Debug\生殖中心病例管理系统.exe.config
+F:\新的\生殖中心病例管理系统\生殖中心病例管理系统\bin\Debug\生殖中心病例管理系统.exe
+F:\新的\生殖中心病例管理系统\生殖中心病例管理系统\bin\Debug\生殖中心病例管理系统.pdb
+F:\新的\生殖中心病例管理系统\生殖中心病例管理系统\obj\Debug\生殖中心病例管理系统.Properties.Resources.resources
+F:\新的\生殖中心病例管理系统\生殖中心病例管理系统\obj\Debug\生殖中心病例管理系统.csproj.GenerateResource.Cache
+F:\新的\生殖中心病例管理系统\生殖中心病例管理系统\obj\Debug\生殖中心病例管理系统.exe
+F:\新的\生殖中心病例管理系统\生殖中心病例管理系统\obj\Debug\生殖中心病例管理系统.pdb
+F:\新的\生殖中心病例管理系统\生殖中心病例管理系统\obj\Debug\生殖中心病例管理系统.mainInterface.resources
+F:\新的\生殖中心病例管理系统\生殖中心病例管理系统\obj\Debug\生殖中心病例管理系统.基本信息.resources
+F:\新的\生殖中心病例管理系统\生殖中心病例管理系统\obj\Debug\生殖中心病例管理系统.女方病例.resources
+F:\新的\生殖中心病例管理系统\生殖中心病例管理系统\obj\Debug\生殖中心病例管理系统.登录界面.resources
+F:\新的\生殖中心病例管理系统\生殖中心病例管理系统\obj\Debug\生殖中心病例管理系统.男方病例form.resources
+F:\新的\生殖中心病例管理系统\生殖中心病例管理系统\obj\Debug\生殖中心病例管理系统.查询界面.resources
